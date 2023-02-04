@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm MF Developer</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
-(img align="right" alt="Coding" width="400" src="https://gfycat.com/kinddistortedirrawaddydolphin")
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadfaisal2002&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadfaisal2002" /> </p>
 
 - 💬 Ask me about **Html Css Javascript Bootstrap**

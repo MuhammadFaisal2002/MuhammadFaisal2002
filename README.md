@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://giphy.com/gifs/screen-monitor-closeup-26tn33aiTi1jkl6H6)
+
 
 
 <h1 align="center">Hi 👋, I'm MF Developer</h1>
